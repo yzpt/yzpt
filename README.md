@@ -1,4 +1,11 @@
-### Hi there 👋
+Selft-taught Data Engineer
+
+Python : Numpy, Pandas, Flask, Requests, Jupyter/Anaconda
+SQL, Bash/Shell/Linux, Git, Docker
+PySpark, Airflow, Kafka
+GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Build, Cloud Run 
+
+I have been passionate about programming for over 20 years, working on various personal, academic, and professional projects. My goal is to leverage my scientific, analytical, and mathematical skills in the field of Data Engineering.
 
 <!--
 **yzpt/yzpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
