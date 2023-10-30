@@ -12,6 +12,9 @@ I have been passionate about programming for over 20 years, working on various p
 
 
 Others used languages & tools : ASM, Basic/Amstrad, DOS, Windows, Java, Web-development: HTML/CSS/Javascript/React, Php/MySQL, Maple, MatLab, Lab-View, Arduino/ESP
+
+
+Linkedin profile : https://www.linkedin.com/in/yohann-zapart-b754b7227/
 <!--
 **yzpt/yzpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
