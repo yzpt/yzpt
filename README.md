@@ -15,6 +15,8 @@ Others used languages & tools : ASM, Basic/Amstrad, DOS, Windows, Java, HTML/CSS
 
 
 Linkedin profile : https://www.linkedin.com/in/yohann-zapart-b754b7227/
+
+Coding game profile (Top 1%) : https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335
 <!--
 **yzpt/yzpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
