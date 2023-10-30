@@ -11,7 +11,7 @@ Selft-taught Data Engineer
 I have been passionate about programming for over 20 years, working on various personal, academic, and professional projects. My goal is to leverage my scientific, analytical, and mathematical skills in the field of Data Engineering.
 
 
-Used languages & tools : ASM, Basic/Amstrad, DOS, Windows, Java, Web-development: HTML/CSS/Javascript/React, Php/MySQL, Maple, MatLab, Lab-View, Arduino/ESP
+Others used languages & tools : ASM, Basic/Amstrad, DOS, Windows, Java, Web-development: HTML/CSS/Javascript/React, Php/MySQL, Maple, MatLab, Lab-View, Arduino/ESP
 <!--
 **yzpt/yzpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
