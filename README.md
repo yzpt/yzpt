@@ -11,7 +11,7 @@
 I have been passionate about programming for over 20 years, working on various personal, academic, and professional projects. My goal is to leverage my scientific, analytical, and mathematical skills in the field of Data Engineering.
 
 
-Others used languages & tools : Java, HTML/CSS/Javascript/React, Php/MySQL, Maple, MatLab, LabView, Arduino/ESP, ASM, Basic and others.
+Others used languages & tools : Java, HTML/CSS/Javascript/React, Php/MySQL, Maple, MatLab, LabView, Arduino/ESP, ASM, Basic
 
 
 Linkedin profile : https://www.linkedin.com/in/yohann-zapart-b754b7227/
