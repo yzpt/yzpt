@@ -1,10 +1,10 @@
 ## Selft-taught Data Engineer
 
-* Python : Numpy, Pandas, Flask, Requests, Jupyter/Anaconda
+* Python, SQL, Bash/Shell, Javascript
   
-* SQL, Bash/Shell/Linux, Git, Docker
+* Docker, Git
   
-* PySpark, Airflow, Kafka
+* Apache : Spark, Airflow, Kafka
   
 * GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Build, Cloud Run 
 
