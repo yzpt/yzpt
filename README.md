@@ -1,7 +1,7 @@
 ## Selft-taught Data Engineer
 
 * Python, SQL, Bash/Shell, Javascript
-* GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Cloud Run
+* GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Cloud Run. Plan to learn GKE.
 * Spark, Airflow, Kafka
 * Docker, Git
 
