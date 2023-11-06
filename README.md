@@ -4,7 +4,7 @@
   
 * Docker, Git
   
-* Apache : Spark, Airflow, Kafka
+* Spark, Airflow, Kafka
   
 * GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Build, Cloud Run 
 
