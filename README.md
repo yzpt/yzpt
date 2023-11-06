@@ -2,11 +2,11 @@
 
 * Python, SQL, Bash/Shell, Javascript
   
-* Docker, Git
+* GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Build, Cloud Run
   
 * Spark, Airflow, Kafka
-  
-* GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Build, Cloud Run 
+* 
+* Docker, Git
 
 I have been passionate about programming for over 20 years, working on various personal, academic, and professional projects. My goal is to leverage my scientific, analytical, and mathematical skills in the field of Data Engineering.
 
