@@ -1,4 +1,4 @@
-## Selft-taught Data Engineer
+## Data Engineer reconversion
 
    **** building portfolio ****
 
