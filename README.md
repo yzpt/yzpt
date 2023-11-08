@@ -1,9 +1,9 @@
 ## Selft-taught Data Engineer
 
 * Python, SQL, Bash/Shell, Javascript
-* GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Cloud Run. Plan to learn GKE.
-* Spark, Airflow, Kafka
-* Docker, Git
+* GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Cloud Run.
+* Spark, Airflow
+* Kubernetes, Docker, Git
 
 I have been passionate about programming for over 20 years, working on various personal, academic, and professional projects. My goal is to leverage my scientific, analytical, and mathematical skills in the field of Data Engineering.
 
