@@ -1,6 +1,6 @@
 ## Professional Transitioning to Data Engineer 
 
-   **** building portfolio ****
+   ******************************** building portfolio ****************************************
 
 * Python, SQL, Bash/Shell
 * GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Cloud Run.
