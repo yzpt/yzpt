@@ -18,6 +18,20 @@ Others used languages & tools : Java, HTML/CSS/Javascript/React, Php/MySQL, Mapl
 Linkedin profile : https://www.linkedin.com/in/yohann-zapart-b754b7227/
 
 Codingame profile (Top 1%) : https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335
+
+<hr>
+
+About my pinned repositories:
+
+1. **vlille_gcp**: My inaugural data project, aiming to familiarize myself with the gcloud CLI and services related to data processing.
+
+2. **docker_cluster_streaming**: -- work in progress --- Replication and customization of a streaming pipeline deployed with Docker Compose. My interest in CI/CD led me to explore Kubernetes as a potential solution.
+
+3. **spark_on_kubernetes**: --- work in progress --- Exploring Kubernetes and deploying a Spark operator.
+
+4. **zapmaths**: A web application created during the lockdown when I was a teacher.
+
+5. **ws2812b**: An engaging project involving Arduino and an addressable LED strip.
 <!--
 **yzpt/yzpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
