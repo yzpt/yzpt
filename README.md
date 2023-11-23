@@ -27,7 +27,7 @@ About my pinned repositories:
 
 2. **docker_cluster_streaming**: -- work in progress --- Replication and customization of a streaming pipeline deployed with Docker Compose. My interest in CI/CD led me to explore Kubernetes as a potential solution.
 
-3. **airflow_carburants**: Airflow & Posgresql pipeline through different apprpaches : lcoal py env, local docker cluster, containers on Cloud Run, and GCP with Composer & BigQuery
+3. **airflow_carburants**: Implementing an Airflow and PostgreSQL pipeline using various methods, including local Python environment, a local Docker cluster, containers deployed on Cloud Run, and integration with Google Cloud Platform using Composer and BigQuery.
 
 4. **spark_on_kubernetes**: --- work in progress --- Exploring Kubernetes and deploying a Spark operator.
 
