@@ -27,11 +27,13 @@ About my pinned repositories:
 
 2. **docker_cluster_streaming**: -- work in progress --- Replication and customization of a streaming pipeline deployed with Docker Compose. My interest in CI/CD led me to explore Kubernetes as a potential solution.
 
-3. **spark_on_kubernetes**: --- work in progress --- Exploring Kubernetes and deploying a Spark operator.
+3. **airflow_carburants**: Airflow & Posgresql pipeline through different apprpaches : lcoal py env, local docker cluster, containers on Cloud Run, and GCP with Composer & BigQuery
 
-4. **zapmaths**: A web application created during the lockdown when I was a teacher.
+4. **spark_on_kubernetes**: --- work in progress --- Exploring Kubernetes and deploying a Spark operator.
 
-5. **ws2812b**: An engaging project involving Arduino and an addressable LED strip.
+5. **zapmaths**: A web application created during the lockdown when I was a teacher.
+
+6. **ws2812b**: An engaging project involving Arduino and an addressable LED strip.
 <!--
 **yzpt/yzpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
