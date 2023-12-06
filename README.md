@@ -12,9 +12,9 @@ La programmation est un centre d'intérêt depuis l'âge de 10 ans où j'ai comm
 
 Mon objectif est de mettre à profit mes compétences mathématiques, scientifiques et algorithmiques au service de la data.
 
-Linkedin : https://www.linkedin.com/in/yohann-zapart-b754b7227/
+[Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
 
-Codingame (Top 1%) : https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335
+[Codingame (Top 1%)](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)
 
 <!--
 <hr>
