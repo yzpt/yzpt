@@ -1,23 +1,20 @@
-## Professional Transitioning to Data Engineer 
+## Reconverson Data Engineer 
 
-
-  ***** building portfolio *****
-
+Je me forme de manière autonome au métier de data engineer autour des technologies suivantes :
 
 * Python, SQL, Bash/Shell
-* GCP : Storage, BigQuery, Dataproc, Composer, GCE, Functions, Pub/sub, Scheduler, Cloud Run.
-* Spark, Airflow
-* Kubernetes, Docker, Git
+* GCP : Storage, BigQuery, Dataproc, Composer, Dataflow, GCE, Functions, Pub/sub, Scheduler, Cloud Run.
+* Spark, Airflow, Kafka
+* Linux, Git, Docker, Kubernetes
+* Looker, PowerBI, Superset
 
-I have been passionate about programming for over 20 years, working on various personal, academic, and professional projects. My goal is to leverage my scientific, analytical, and mathematical skills in the field of Data Engineering.
+La programmation est un centre d'intérêt depuis l'âge de 10 ans où j'ai commencé à écrire mes premiers codes sur un Amstrad CPC 6128, je créais des sites web en Php/mySQL autour des années 2000 lors de la démocratisation de l'accès à internet en France. Depuis, le code et le développement ont toujours rythmés mes formations ainsi que ma carrière de professeur de mathématiques (mise en place d'une application web [zapmaths](https://github.com/yzpt/zapmaths) avec des technologies et langages tels que Java, HTML/CSS/Javascript/React, Php/MySQL/LAMP, Maple, MatLab, LabView, Arduino/ESP, Basic, ASM.
 
+Mon objectif est de mettre à profit mes compétences mathématiques, scientifiques et algorithmiques au service de la data.
 
-Others used languages & tools : Java, HTML/CSS/Javascript/React, Php/MySQL, Maple, MatLab, LabView, Arduino/ESP, Basic, ASM
+Linkedin : https://www.linkedin.com/in/yohann-zapart-b754b7227/
 
-
-Linkedin profile : https://www.linkedin.com/in/yohann-zapart-b754b7227/
-
-Codingame profile (Top 1%) : https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335
+Codingame (Top 1%) : https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335
 
 <hr>
 
