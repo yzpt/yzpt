@@ -17,7 +17,7 @@ Mon objectif est de mettre à profit mes compétences mathématiques, scientifiq
 [Codingame (Top 1%)](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)
 
 
------ Portfolio en construction, documentations en cours -----
+⚠️ ----- Portfolio en construction, documentations en cours ----- 🏗️
 
 <!--
 <hr>
