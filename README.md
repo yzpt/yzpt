@@ -29,9 +29,7 @@ Je cherche à mettre à profit mes compétences informatiques & mathématiques d
 
 <hr>
 
-## Aperçus de projets :
-
-<hr>
+# Portfolio :
 
 ## V'lille GCP 
 
