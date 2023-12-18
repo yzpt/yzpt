@@ -65,6 +65,8 @@ ETL des prix des carburants avec Airlfow en trois déclinaisons :
 
 ## Zapmaths : application web d'entraînement aux automatismes de calculs
 
+[:link: https://github.com/yzpt/zapmathss](https://github.com/yzpt/zapmaths)
+
 Application développée et utilisée durant ma carrière de professeur certifié de mathématiques en lycée professionnel.
 
 Développée durant le confinement avec des bases en Php/mySQL sur serveur LAMP. Elle m'a amenée à utiliser Python et relancer mon intérêt pour le code.
