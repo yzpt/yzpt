@@ -26,9 +26,14 @@ Je cherche à mettre à profit mes compétences informatiques & mathématiques d
 
 ## [:link: Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
 
+
 <hr>
 
-# ----- Aperçus de projets : -----
+<p align="center" style="font-size: 2rem;">
+Aperçus de projets :
+</p>
+
+<hr>
 
 ## V'lille GCP 
 
