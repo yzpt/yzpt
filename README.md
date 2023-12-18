@@ -17,7 +17,40 @@ Mon objectif est de mettre à profit mes compétences mathématiques, scientifiq
 [Codingame (Top 1%)](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)
 
 
-⚠️ ----- Portfolio en construction, documentations en cours ----- 🏗️
+⚠️ ----- Portfolio en construction, documentation en cours ----- 🏗️
+
+
+
+--- 🇬🇧 ---
+
+## Data Engineer Career Transition
+
+I am autonomously acquiring skills in the field of data engineering, focusing on the following technologies:
+
+Programming Languages: Python, SQL, Bash/Shell
+Google Cloud Platform (GCP): Storage, BigQuery, Dataproc, Composer, Dataflow, GCE, Functions, Pub/sub, Scheduler, Cloud Run.
+Other Technologies: Spark, Airflow, Kafka
+DevOps: Linux, Git, Docker, Kubernetes
+Data Visualization: Looker, PowerBI, Superset
+My interest in programming began at the age of 10 when I started writing my first codes on an Amstrad CPC 6128. I created websites in Php/MySQL around the 2000s during the popularization of internet access in France. Since then, coding has been a consistent part of my education and career as a mathematics teacher. I developed a web application for practicing calculation skills, called zapmaths, using technologies and languages such as Java, HTML/CSS/JavaScript/React, Php/MySQL/LAMP, Maple, MatLab, LabView, Arduino/ESP, Basic, ASM.
+
+My goal is to leverage my mathematical, scientific, and algorithmic skills in the field of data.
+
+[Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
+
+[Codingame (Top 1%)](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)
+
+⚠️ ----- Portfolio under construction, documentation in progress ----- 🏗️
+
+
+
+
+
+
+
+
+
+
 
 <!--
 <hr>
