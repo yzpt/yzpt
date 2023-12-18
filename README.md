@@ -14,9 +14,9 @@ Je cherche à mettre à profit mes compétences informatiques & mathématiques d
 
 [Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
 
-[Codingame (Top 1%)](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)
 
-Sélection de projets :
+
+# Aperçu de projets :
 
 ## V'lille GCP 
 
@@ -119,6 +119,12 @@ Exemple de projet ayant été conduit auprès d'élèves.
 ![img/arduino_circuit.png](img/arduino_circuit.png)
 
 https://github.com/yzpt/ws2812b/assets/140260395/834fdeff-d45a-46db-ba1b-3e91130749b2
+
+<hr>
+
+[Codingame (Top 1%)](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)
+
+
 
 <hr>
 
