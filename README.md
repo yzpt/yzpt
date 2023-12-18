@@ -22,13 +22,15 @@ Sélection de projets :
 
 [:link: github.com/yzpt/vlille_gcp](https://github.com/yzpt/vlille_gcp)
 
+
+
+ETL des données de l'API du service V'lille avec GCP
+Cloud Functions, Pub/Sub, Scheduler, Storage, Dataproc & BigQuery.
+
+Déploiement d'un [dashboard](https://dashboard-service-bohzwljmja-od.a.run.app/) sur Cloud Run avec Flask, Docker, Google Maps JS, ChartJS.
+
 [![img/diagram_svg.svg](img/vlille_diagram.svg)](img/vlille_diagram.svg)
 
-ETL de données de vélos en libre service de la métropole lilloise (V'lille) depuis une API vers une base de données BigQuery en utilisant Cloud Functions, Pub/Sub, Scheduler, Storage & Dataproc.
-
-[![img/diagram_svg.svg](img/vlille_diagram.svg)](img/vlille_diagram.svg)
-
-#### Déploiement d'un service de dashboard sur Cloud Run avec Flask, Docker, Google Maps JS, ChartJS.
 
 [![Flask Dashboard](img/vlille_dashboard.png)](https://dashboard-service-bohzwljmja-od.a.run.app/)
 
