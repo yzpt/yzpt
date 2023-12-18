@@ -3,8 +3,8 @@
 <p align="center">
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
 <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
-<img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="metabase"  style="height: 3rem"/> </a>
+<img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
 <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> </a>
 <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/> </a>
 <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
