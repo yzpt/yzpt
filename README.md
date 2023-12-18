@@ -88,12 +88,14 @@ Développée durant le confinement avec des bases en Php/mySQL sur serveur LAMP.
 
 [![img/diagram_zapmaths_svg.svg](img/diagram_zapmaths_svg.svg)](img/diagram_zapmaths_svg.svg)
 
-Elle fût un performant levier d'apprentissage, appréciée et très utilisées des élèves qui cumulaient chacun en moyenne quelques milliers de questions traitées chaque année.
+Elle fût un performant levier d'apprentissage, appréciée et très utilisée des élèves qui traitaient chacun en moyenne quelques milliers de questions par année scolaire.
 
 * Suivi précis des activités des élèves
 
 * Questions aux données numériques semi-aléatoires, les énoncés, schémas, diagrammes et corrections sont générés  dynamiquement en fonction des valeurs générées.
+  
 * Utilisation de matplolib et mathjax pour générer les énoncés, schémas, graphiques et diagrammes.
+* 
 * Web application en Php/mySQL sur serveur LAMP.
 
 <div style="display: flex; flex-wrap:wrap;">
