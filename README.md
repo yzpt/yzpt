@@ -67,3 +67,44 @@ ETL des prix des carburants avec Airlfow en trois déclinaisons :
 
 <hr>
 
+## Zapmaths : application web d'entraînement aux automatismes de calculs
+
+Application développée et utilisée durant ma carrière de professeur certifié de mathématiques en lycée professionnel.
+
+Développée durant le confinement avec des bases en Php/mySQL sur serveur LAMP. Elle m'a amenée à utiliser Python et relancer mon intérêt pour le code.
+
+[![img/diagram_zapmaths_svg.svg](img/diagram_zapmaths_svg.svg)](img/diagram_zapmaths_svg.svg)
+
+Elle fût un performant levier d'apprentissage, appréciée et très utilisées des élèves qui cumulaient chacun en moyenne quelques milliers de questions traitées chaque année.
+
+* Suivi précis des activités des élèves
+
+* Questions aux données numériques semi-aléatoires, les énoncés, schémas, diagrammes et corrections sont générés  dynamiquement en fonction des valeurs générées.
+* Utilisation de matplolib et mathjax pour générer les énoncés, schémas, graphiques et diagrammes.
+* Web application en Php/mySQL sur serveur LAMP.
+
+<div style="display: flex; flex-wrap:wrap;">
+
+![Screenshot](./img/screenshots/a.jpg)
+![Screenshot](./img/screenshots/b.jpg)
+![Screenshot](./img/screenshots/c.jpg)
+![Screenshot](./img/screenshots/d.jpg)
+![Screenshot](./img/screenshots/e.jpg)
+![Screenshot](./img/screenshots/f.jpg)
+![Screenshot](./img/screenshots/g.jpg)
+![Screenshot](./img/screenshots/h.jpg)
+
+</div>
+
+##### Démo :
+Une version est accessible sur [https://zapart.ovh](https://zapart.ovh)
+
+Identification:
+
+
+| login | password |
+|-------|----------|
+| demo01 | demo02 |
+| demo02 | demo02 |
+| ... | ... |
+| demo99 | demo99 |
