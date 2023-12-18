@@ -10,7 +10,7 @@ Je me forme au métier de data engineer autour des technologies suivantes :
 
 La programmation rythme depuis plus de 25 ans mes loisirs, formations ainsi que ma carrière de professeur de mathématiques (développement d'une application web d'entraînement des automatismes de calcul : [zapmaths](https://github.com/yzpt/zapmaths)) avec des technologies et langages tels que Python, SQL, Bash, Java, HTML/CSS/Javascript/React, Php/MySQL/LAMP, Maple, MatLab, LabView, Arduino/ESP, Basic, ASM.
 
-Je cherche à mettre à profit mes compétences informatiques & mathématiques dans une entreprise de la métropole Lillois à forte maturité Data telle que Adéo, Leroy Merlin, Decathlon, Auchan.
+Je cherche à mettre à profit mes compétences informatiques & mathématiques dans une entreprise de la métropole Lilloise à forte maturité Data telle que Adéo, Leroy Merlin, Decathlon, Auchan.
 
 [Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
 
