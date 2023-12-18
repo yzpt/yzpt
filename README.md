@@ -20,7 +20,7 @@ Mon objectif est de mettre à profit mes compétences mathématiques, scientifiq
 ⚠️ ----- Portfolio en construction, documentation en cours ----- 🏗️
 
 
-
+<hr>
 
 
 ## --- 🇬🇧 --- Data Engineer Career Transition
