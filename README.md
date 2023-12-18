@@ -24,9 +24,13 @@ La programmation rythme depuis plus de 25 ans mes loisirs, formations ainsi que 
 
 Je cherche à mettre à profit mes compétences informatiques & mathématiques dans une entreprise de la métropole Lilloise à forte maturité Data telle que Adéo, Leroy Merlin, Decathlon, Auchan.
 
-[Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
+### [Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
 
-# Aperçu de projets :
+<hr>
+
+<p align="center">
+# Aperçus de projets :
+</p>
 
 ## V'lille GCP 
 
