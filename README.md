@@ -108,3 +108,16 @@ Identification:
 | demo02 | demo02 |
 | ... | ... |
 | demo99 | demo99 |
+
+
+<hr>
+
+## Arduino : smooth adressable LED strip
+
+[:link: https://github.com/yzpt/ws2812b](https://github.com/yzpt/ws2812b)
+
+Exemple de projet ayant été conduit auprès d'élèves.
+
+![img/arduino_circuit.png](img/arduino_circuit.png)
+
+https://github.com/yzpt/ws2812b/assets/140260395/834fdeff-d45a-46db-ba1b-3e91130749b2
