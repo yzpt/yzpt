@@ -10,7 +10,7 @@ Je me forme au métier de data engineer autour des technologies suivantes :
 
 La programmation rythme depuis plus de 25 ans mes loisirs, formations ainsi que ma carrière de professeur de mathématiques (développement d'une application web d'entraînement des automatismes de calcul : [zapmaths](https://github.com/yzpt/zapmaths)) avec des technologies et langages tels que Python, SQL, Bash, Java, HTML/CSS/Javascript/React, Php/MySQL/LAMP, Maple, MatLab, LabView, Arduino/ESP, Basic, ASM.
 
-Mon objectif est de mettre à profit mes compétences mathématiques, scientifiques et algorithmiques au service de la data.
+Je cherche à mettre à profit mes compétences informatiques & mathématiques dans une entreprise de la métropole Lillois à forte maturité Data telle que Adéo, Leroy Merlin, Decathlon, Auchan.
 
 [Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
 
@@ -21,8 +21,6 @@ Sélection de projets :
 ## V'lille GCP 
 
 [:link: github.com/yzpt/vlille_gcp](https://github.com/yzpt/vlille_gcp)
-
-
 
 ETL des données de l'API du service V'lille avec GCP
 Cloud Functions, Pub/Sub, Scheduler, Storage, Dataproc & BigQuery.
@@ -121,3 +119,14 @@ Exemple de projet ayant été conduit auprès d'élèves.
 ![img/arduino_circuit.png](img/arduino_circuit.png)
 
 https://github.com/yzpt/ws2812b/assets/140260395/834fdeff-d45a-46db-ba1b-3e91130749b2
+
+<hr>
+
+## Autres & en cours
+
+* [:link: Implémentation d'un Spark Operator sur Kubernetes](https://github.com/yzpt/spark_on_kubernetes)
+* [:link: Kafka : KRaft mode](https://github.com/yzpt/kafka_kraft)
+* [:link: GCP Dataflow & BigQuery, prix des carburants](https://github.com/yzpt/dataflow_carburants)
+* [:link: Websocket Streaming vers GCP Pub/Sub](https://github.com/yzpt/websocket_to_gcp_pubsub)
+* [:link: Timemap des stations V'lille](https://github.com/yzpt/timemap_vlille)
+* [:link: SASL/PLAIN et ACLs sur Kafka](https://github.com/yzpt/upw_test_kafka_spark_docker)
