@@ -8,13 +8,11 @@ Je me forme au métier de data engineer autour des technologies suivantes :
 * Linux, Git, Docker, Kubernetes
 * Looker, PowerBI, Superset
 
-La programmation rythme depuis plus de 25 ans mes loisirs, formations ainsi que ma carrière de professeur de mathématiques (développement d'une application web d'entraînement des automatismes de calcul : [zapmaths](https://github.com/yzpt/zapmaths)) avec des technologies et langages tels que Python, SQL, Bash, Java, HTML/CSS/Javascript/React, Php/MySQL/LAMP, Maple, MatLab, LabView, Arduino/ESP, Basic, ASM.
+La programmation rythme depuis plus de 25 ans mes loisirs, formations ainsi que ma carrière de professeur de mathématiques (développement d'une application web d'entraînement des automatismes de calcul : [zapmaths](https://github.com/yzpt/zapmaths)) avec des technologies et langages tels que Python, SQL, Bash, Java, HTML/CSS/Javascript/React, Php/MySQL/LAMP, Maple, MatLab, LabView, Arduino/ESP, Basic, ASM. [Top 1% classement codingame.com](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)
 
 Je cherche à mettre à profit mes compétences informatiques & mathématiques dans une entreprise de la métropole Lilloise à forte maturité Data telle que Adéo, Leroy Merlin, Decathlon, Auchan.
 
 [Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
-
-
 
 # Aperçu de projets :
 
@@ -119,12 +117,6 @@ Exemple de projet ayant été conduit auprès d'élèves.
 ![img/arduino_circuit.png](img/arduino_circuit.png)
 
 https://github.com/yzpt/ws2812b/assets/140260395/834fdeff-d45a-46db-ba1b-3e91130749b2
-
-<hr>
-
-[Codingame (Top 1%)](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)
-
-
 
 <hr>
 
