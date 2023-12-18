@@ -27,6 +27,12 @@ Mon objectif est de mettre à profit mes compétences mathématiques, scientifiq
 
 I am autonomously acquiring skills in the field of data engineering, focusing on the following technologies:
 
+* Python, SQL, Bash/Shell
+* GCP : Storage, BigQuery, Dataproc, Composer, Dataflow, GCE, Functions, Pub/sub, Scheduler, Cloud Run.
+* Spark, Airflow, Kafka
+* Linux, Git, Docker, Kubernetes
+* Looker, PowerBI, Superset
+
 Programming Languages: Python, SQL, Bash/Shell
 Google Cloud Platform (GCP): Storage, BigQuery, Dataproc, Composer, Dataflow, GCE, Functions, Pub/sub, Scheduler, Cloud Run.
 Other Technologies: Spark, Airflow, Kafka
