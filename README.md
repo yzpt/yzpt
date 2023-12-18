@@ -1,4 +1,4 @@
-## Reconversion Data Engineer 
+## --- 🇫🇷 --- Reconversion Data Engineer 
 
 Je me forme de manière autonome au métier de data engineer autour des technologies suivantes :
 
@@ -21,9 +21,9 @@ Mon objectif est de mettre à profit mes compétences mathématiques, scientifiq
 
 
 
---- 🇬🇧 ---
 
-## Data Engineer Career Transition
+
+## --- 🇬🇧 --- Data Engineer Career Transition
 
 I am autonomously acquiring skills in the field of data engineering, focusing on the following technologies:
 
