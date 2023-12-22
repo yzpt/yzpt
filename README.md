@@ -58,7 +58,6 @@
 <img src="https://comptoir-du-libre.org/img/files/Softwares/Apache%20Superset/avatar/apache-superset.png" alt="python"  style="height: 3rem"/>
 <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="python"  style="height: 3rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="python"  style="height: 3rem"/>
-<br>
 <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="python"  style="height: 3rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="python"  style="height: 3rem"/>
 
@@ -74,11 +73,11 @@
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="python"  style="height: 3rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="python"  style="height: 3rem"/>
-<br>
+<!-- <br> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="python"  style="height: 3rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="python"  style="height: 3rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="python"  style="height: 3rem"/>
-<br>
+<!-- <br> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="python"  style="height: 3rem"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="python"  style="height: 3rem"/>
 
