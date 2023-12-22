@@ -1,0 +1,20 @@
+| Logo | Description |
+|------|-------------|
+| <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> | **Python** :<br> POO, DSA ([top 1% codingame.com](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)), pip/conda, Jupyter, Venv, Flask, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, Requests, Selenium, BeautifulSoup et bien d'autres. |
+| <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> | **SQL** :<br> JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, Coalesce, concatenation, dates PostgreSQL, MySQL, local & Docker |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="metabase"  style="height: 3rem"/> | **Linux/Bash/Shell** :<br> Automatisation, Terminal, navigation/gestion de fichiers, droits admins/chmod, SSH, oh-my-zsh |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="metabase"  style="height: 3rem"/> | **GCP** :<br> Utilisation appuyée de la CLI & bash automatisation BigQuery, Storage, Dataproc, Composer, Dataflow, GCE, Functions, Scheduler, Pub/Sub, IAM, Artifcat Registry, Cloud Run, Logging |
+| <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> | **Docker** :<br> Dockerfile, docker-compose, DockerHub, interconnection de containers |
+| <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> | **Spark** :<br> Implementation en local, Docker & GCP Dataproc, pySpark, SparkSQL, Dataframes, Spark Streaming, Jupyter, connectors w/ Maven |
+| <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> | **Airflow** :<br> Local, Docker & GCP Composer, DAGs, GCP Operators (BigQuery & Storage) |
+| <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/> | **Kafka** :<br> Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentification SASL_SSL, Autorisations ACL |
+
+<style>
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: none;
+}
+</style>
