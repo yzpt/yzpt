@@ -44,7 +44,7 @@
             <td><strong>Airflow :</strong><br> Local, Docker & GCP Composer, DAGs, GCP Operators (BigQuery & Storage).</td>
         </tr>
         <tr>
-            <td><img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka" style="width: 3rem; min-width: 100px;"/></td>
+            <td><img src="img/kafka_logo.png" alt="kafka" style="width: 3rem; min-width: 100px;"/></td>
             <td><strong>Kafka :</strong><br> Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentification SASL_SSL, Autorisations ACL.</td>
         </tr>
     </tbody>
