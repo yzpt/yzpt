@@ -15,45 +15,48 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python" style="width: 3rem;"/>
 <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql" style="width: 3rem;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="metabase" style="width: 3rem;"/>
+<br>
 <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="GCP" style="width: 3rem;"/>
 <img src="https://img.icons8.com/color/512/docker.png" alt="docker" style="width: 3rem;"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" style="width: 3rem;"/>
+<br>
 <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark" style="width: 3rem;"/>
-<img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="GCP" style="width: 3rem;"/>
+<img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="Airflow" style="width: 3rem;"/>
 <img src="img/kafka_logo.png" alt="kafka" style="width: 3rem;"/></td>
 </p>
 
 <table>
     <tbody>
         <tr>
-            <td><strong>Python :</strong>
+            <td><strong>Python</strong>
             <td>POO, DSA (<a href="https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335" target="_blank">top 1% codingame.com</a>), pip/conda, Jupyter, Venv, Flask, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, Requests, Selenium, BeautifulSoup et bien d'autres.</td>
         </tr>
         <tr>
-            <td><strong>SQL :</strong></td>
+            <td><strong>SQL</strong></td>
             <td>JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, Coalesce, concatenation, dates PostgreSQL, MySQL, local & Docker.</td>
         </tr>
         <tr>
-            <td><strong>Linux & Bash :</strong></td>
+            <td><strong>Linux & Bash</strong></td>
             <td>Automatisation, Terminal, navigation/gestion de fichiers, droits admins/chmod, SSH, oh-my-zsh.</td>
         </tr>
         <tr>
-            <td><strong>GCP :</strong></td>
+            <td><strong>GCP</strong></td>
             <td>Utilisation appuyée de la CLI & bash automatisation BigQuery, Storage, Dataproc, Composer, Dataflow, GCE, Functions, Scheduler, Pub/Sub, IAM, Artifcat Registry, Cloud Run, Logging.</td>
         </tr>
         <tr>
-            <td><strong>Docker :</strong></td>
+            <td><strong>Docker</strong></td>
             <td>Dockerfile, clusterisation avec docker-compose, DockerHub</td>
         </tr>
         <tr>
-            <td><strong>Spark :</strong></td>
+            <td><strong>Spark</strong></td>
             <td>Implementation en local, Docker & GCP Dataproc, pySpark, SparkSQL, Dataframes, Spark Streaming, Jupyter, Spark connectors w/ Maven dependecies.</td>
         </tr>
         <tr>
-            <td><strong>Airflow :</strong></td>
+            <td><strong>Airflow</strong></td>
             <td>Local, Docker & GCP Composer, DAGs, GCP Operators (BigQuery & Storage).</td>
         </tr>
         <tr>
-            <td><strong>Kafka :</strong></td>
+            <td><strong>Kafka</strong></td>
             <td>Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentification SASL_SSL, Autorisations ACL.</td>
         </tr>
     </tbody>
