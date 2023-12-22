@@ -11,7 +11,7 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
 <hr>
 
 ### Stack :
-
+<p align="center">
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python" style="width: 3rem;"/>
 <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql" style="width: 3rem;"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="metabase" style="width: 3rem;"/>
@@ -20,6 +20,7 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
 <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark" style="width: 3rem;"/>
 <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="GCP" style="width: 3rem;"/>
 <img src="img/kafka_logo.png" alt="kafka" style="width: 3rem;"/></td>
+</p>
 
 <table>
     <tbody>
