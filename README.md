@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/yohann-zapart/">
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"><br>linkedin.com/in/yohann-zapart/
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"><br>linkedin.com/in/yohann-zapart/
 </p>
 </a>
 
