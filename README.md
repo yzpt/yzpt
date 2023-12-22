@@ -14,14 +14,14 @@
 
 |  |  |
 | --- | --- |
-| <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python" style="max-width: 100px"/> | **Python :**<br> POO, DSA ([top 1% codingame.com](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)), pip/conda, Jupyter, Venv, Flask, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, Requests, Selenium, BeautifulSoup et bien d'autres. |
-| <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql" style="max-width: 100px"/> | **SQL :**<br> JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, Coalesce, concatenation, dates PostgreSQL, MySQL, local & Docker. |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="metabase" style="max-width: 100px"/> | **Linux/Bash/Shell :**<br> Automatisation, Terminal, navigation/gestion de fichiers, droits admins/chmod, SSH, oh-my-zsh. |
-| <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="GCP" style="max-width: 100px"/> | **GCP :**<br> Utilisation appuyée de la CLI & bash automatisation BigQuery, Storage, Dataproc, Composer, Dataflow, GCE, Functions, Scheduler, Pub/Sub, IAM, Artifcat Registry, Cloud Run, Logging. |
-| <img src="https://img.icons8.com/color/512/docker.png" alt="docker" style="max-width: 100px"/> | **Docker :**<br> Dockerfile, clusterisation avec docker-compose, DockerHub |
-| <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark" style="max-width: 100px"/> | **Spark :**<br> Implementation en local, Docker & GCP Dataproc, pySpark, SparkSQL, Dataframes, Spark Streaming, Jupyter, Spark connectors w/ Maven dependecies. |
-| <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="GCP" style="max-width: 100px"/> | **Airflow :**<br> Local, Docker & GCP Composer, DAGs, GCP Operators (BigQuery & Storage). |
-| <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka" style="max-width: 100px"/> | **Kafka :**<br> Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentification SASL_SSL, Autorisations ACL. |
+| <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python" style="width: 3em"/> | **Python :**<br> POO, DSA ([top 1% codingame.com](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)), pip/conda, Jupyter, Venv, Flask, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, Requests, Selenium, BeautifulSoup et bien d'autres. |
+| <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql" style="width: 3em"/> | **SQL :**<br> JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, Coalesce, concatenation, dates PostgreSQL, MySQL, local & Docker. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="metabase" style="width: 3em"/> | **Linux/Bash/Shell :**<br> Automatisation, Terminal, navigation/gestion de fichiers, droits admins/chmod, SSH, oh-my-zsh. |
+| <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="GCP" style="width: 3em"/> | **GCP :**<br> Utilisation appuyée de la CLI & bash automatisation BigQuery, Storage, Dataproc, Composer, Dataflow, GCE, Functions, Scheduler, Pub/Sub, IAM, Artifcat Registry, Cloud Run, Logging. |
+| <img src="https://img.icons8.com/color/512/docker.png" alt="docker" style="width: 3em"/> | **Docker :**<br> Dockerfile, clusterisation avec docker-compose, DockerHub |
+| <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark" style="width: 3em"/> | **Spark :**<br> Implementation en local, Docker & GCP Dataproc, pySpark, SparkSQL, Dataframes, Spark Streaming, Jupyter, Spark connectors w/ Maven dependecies. |
+| <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="GCP" style="width: 3em"/> | **Airflow :**<br> Local, Docker & GCP Composer, DAGs, GCP Operators (BigQuery & Storage). |
+| <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka" style="width: 3em"/> | **Kafka :**<br> Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentification SASL_SSL, Autorisations ACL. |
 
 <hr>
 
