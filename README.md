@@ -12,7 +12,7 @@
 
 ### Maitrise :
 
-| logo | description |
+|  |  |
 |------|-------------|
 | <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> | **Python** :<br> POO, DSA ([top 1% codingame.com](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)), pip/conda, Jupyter, Venv, Flask, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, Requests, Selenium, BeautifulSoup et bien d'autres. |
 | <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> | **SQL** :<br> JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, Coalesce, concatenation, dates PostgreSQL, MySQL, local & Docker |
