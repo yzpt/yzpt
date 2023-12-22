@@ -13,23 +13,23 @@
 ### Maitrise :
 
 <style>
-        .flex-container {
-            display: flex;
-            flex-direction: column; /* Arrange items in a column */
-            gap: 10px; /* Add some space between items */
-        }
+.flex-container {
+    display: flex;
+    flex-direction: column; /* Arrange items in a column */
+    gap: 10px; /* Add some space between items */
+}
 
-        .flex-item {
-            display: flex;
-            align-items: center; /* Align items vertically in the center */
-        }
+.flex-item {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+}
 
-        .flex-item img {
-            width: 3rem;
-            min-width: 100px;
-            margin-right: 10px; /* Add some space between image and text */
-        }
-    </style>
+.flex-item img {
+    width: 3rem;
+    min-width: 100px;
+    margin-right: 10px; /* Add some space between image and text */
+}
+</style>
 
 <div class="flex-container">
     <div class="flex-item">
