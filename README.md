@@ -26,19 +26,19 @@
             <td><strong>Linux/Bash/Shell :</strong><br> Automatisation, Terminal, navigation/gestion de fichiers, droits admins/chmod, SSH, oh-my-zsh.</td>
         </tr>
         <tr>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="metabase" style="max-height: 3rem"/></td>
+            <td><img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="GCP" style="max-height: 3rem"/></td>
             <td><strong>GCP :</strong><br> Utilisation appuyée de la CLI & bash automatisation BigQuery, Storage, Dataproc, Composer, Dataflow, GCE, Functions, Scheduler, Pub/Sub, IAM, Artifcat Registry, Cloud Run, Logging.</td>
         </tr>
         <tr>
             <td><img src="https://img.icons8.com/color/512/docker.png" alt="docker" style="max-height: 3rem"/></td>
-            <td><strong>Docker :</strong><br> Dockerfile, docker-compose, DockerHub, interconnection de containers.</td>
-        </tr>
-        <tr>
-            <td><img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase" style="max-height: 3rem"/></td>
-            <td><strong>Spark :</strong><br> Implementation en local, Docker & GCP Dataproc, pySpark, SparkSQL, Dataframes, Spark Streaming, Jupyter, connectors w/ Maven.</td>
+            <td><strong>Docker :</strong><br> Dockerfile, clusterisation avec docker-compose, DockerHub</td>
         </tr>
         <tr>
             <td><img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark" style="max-height: 3rem"/></td>
+            <td><strong>Spark :</strong><br> Implementation en local, Docker & GCP Dataproc, pySpark, SparkSQL, Dataframes, Spark Streaming, Jupyter, Spark connectors w/ Maven dependecies.</td>
+        </tr>
+        <tr>
+            <td><img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" alt="GCP" style="max-height: 3rem"/></td>
             <td><strong>Airflow :</strong><br> Local, Docker & GCP Composer, DAGs, GCP Operators (BigQuery & Storage).</td>
         </tr>
         <tr>
