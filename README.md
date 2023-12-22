@@ -14,7 +14,7 @@
 
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
-    <div style="display: flex; flex-direction: row; gap: 10px;">
+    <div style="display: flex; flex-direction: line; gap: 10px;">
         <div>
             <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python" style="width: 3rem; min-width: 100px;"/>
         </div>
