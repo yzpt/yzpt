@@ -8,13 +8,3 @@
 | <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> | **Spark** :<br> Implementation en local, Docker & GCP Dataproc, pySpark, SparkSQL, Dataframes, Spark Streaming, Jupyter, connectors w/ Maven |
 | <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> | **Airflow** :<br> Local, Docker & GCP Composer, DAGs, GCP Operators (BigQuery & Storage) |
 | <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/> | **Kafka** :<br> Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentification SASL_SSL, Autorisations ACL |
-
-<style>
-table {
-  border-collapse: collapse;
-}
-
-table, th, td {
-  border: none;
-}
-</style>
