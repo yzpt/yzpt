@@ -12,31 +12,13 @@
 
 ### Maitrise :
 
-<style>
-.flex-container {
-    display: flex;
-    flex-direction: column; /* Arrange items in a column */
-    gap: 10px; /* Add some space between items */
-}
 
-.flex-item {
-    display: flex;
-    align-items: center; /* Align items vertically in the center */
-}
-
-.flex-item img {
-    width: 3rem;
-    min-width: 100px;
-    margin-right: 10px; /* Add some space between image and text */
-}
-</style>
-
-<div class="flex-container">
-    <div class="flex-item">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+    <div style="display: flex; align-items: center">
         <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python" style="width: 3rem; min-width: 100px;"/>
         <strong>Python :</strong><br> POO, DSA (<a href="https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335" target="_blank">top 1% codingame.com</a>), pip/conda, Jupyter, Venv, Flask, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, Requests, Selenium, BeautifulSoup et bien d'autres.
     </div>
-    <div class="flex-item">
+    <!-- <div class="flex-item">
         <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql" style="width: 3rem; min-width: 100px;"/>
         <strong>SQL :</strong><br> JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, Coalesce, concatenation, dates PostgreSQL, MySQL, local & Docker.
     </div>
@@ -63,7 +45,7 @@
     <div class="flex-item">
         <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka" style="width: 3rem; min-width: 100px;"/>
         <strong>Kafka :</strong><br> Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentification SASL_SSL, Autorisations ACL.
-    </div>
+    </div> -->
 </div>
 
 
