@@ -1,31 +1,106 @@
 ## Yohann Zapart - Reconversion Data Engineer 
 
+<a href="https://www.linkedin.com/in/yohann-zapart/">
 <p align="center">
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
-<img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="metabase"  style="height: 3rem"/> </a>
-<img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
-<img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> </a>
-<img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/> </a>
-<img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
-<img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
-<img src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" alt="kubernetes"  style="height: 3rem"/> </a>
-<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"><br>linkedin.com/in/yohann-zapart/
+</p>
+</a>
+
+<hr>
+
+
+
+### Maitrise :
+
+<p align="center">
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/>
+<img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="metabase"  style="height: 3rem"/>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="metabase"  style="height: 3rem"/>
+<img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/>
+<br>
+<img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/><br>
+<img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/>
+<img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/>
+<img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/>
+
+
+* **Python** :
+POO, DSA ([top 1% codingame.com](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)), pip/conda, Jupyter, Venv, Flask, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, Requests, Selenium, BeautifulSoup et bien d'autres.
+<br>
+
+* **SQL** : 
+JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, Coalesce, concatenation, dates
+PostgreSQL, MySQL, local & Docker
+<br>
+
+* **Linux/Bash/Shell** :
+Automatisation, Terminal, navigation/gestion de fichiers, droits admins/chmod, SSH, oh-my-zsh
+<br>
+
+* **GCP** :
+Utilisation appuyée de la CLI & bash automatisation
+BigQuery, Storage, Dataproc, Composer, Dataflow, GCE, Functions, Scheduler, Pub/Sub, IAM, Artifcat Registry, Cloud Run, Logging
+<br>
+
+* **Docker** :
+Dockerfile, docker-compose, DockerHub, interconnection de containers
+<br>
+
+* **Spark** :
+Implementation en local, Docker & GCP Dataproc, pySpark, SparkSQL, Dataframes, Spark Streaming, Jupyter, connectors w/ Maven
+<br>
+
+* **Airflow** :
+Local, Docker & GCP Composer, DAGs, GCP Operators (BigQuery & Storage)
+<br>
+
+* **Kafka** : 
+Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentification SASL_SSL, Autorisations ACL
+<br>
+<hr>
+
+### En cours et prochainement :
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="python"  style="height: 6rem"/>
+<br>
+<img src="https://comptoir-du-libre.org/img/files/Softwares/Apache%20Superset/avatar/apache-superset.png" alt="python"  style="height: 3rem"/>
+<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="python"  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="python"  style="height: 3rem"/>
+<br>
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="python"  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="python"  style="height: 3rem"/>
+
 </p>
 
-Je me forme au métier de data engineer autour des technologies suivantes :
+  - **Kubernetes : Projet de spécialisation**
+  - Apache Superset / Looker / powerBI
+  - MongoDB, Cassandra
+<br>
+<hr>
 
-* Python, SQL, Bash/Shell
-* GCP : Storage, BigQuery, Dataproc, Composer, Dataflow, GCE, Functions, Pub/sub, Scheduler, Cloud Run.
-* Spark, Kafka, Airflow
-* Linux, Git, Docker, Kubernetes
-* Looker, PowerBI, Superset
+### Autres :
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="python"  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="python"  style="height: 3rem"/>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="python"  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="python"  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="python"  style="height: 3rem"/>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="python"  style="height: 3rem"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="python"  style="height: 3rem"/>
 
-La programmation rythme depuis plus de 25 ans mes loisirs, formations ainsi que ma carrière de professeur de mathématiques (développement d'une application web d'entraînement des automatismes de calcul : [zapmaths](https://github.com/yzpt/zapmaths)) avec des technologies et langages tels que Python, SQL, Bash, Java, HTML/CSS/Javascript/React, Php/MySQL/LAMP, Maple, MatLab, LabView, Arduino/ESP, Basic, ASM. [Top 1% classement codingame.com](https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335)
+</p>
 
-Je cherche à mettre à profit mes compétences informatiques & mathématiques dans une entreprise de la métropole Lilloise à forte maturité Data telle que Adéo, Leroy Merlin, Decathlon, Auchan.
 
-## [:link: Linkedin](https://www.linkedin.com/in/yohann-zapart-b754b7227/)
+  - Java, PHP, MatLab, LabView
+  - Javascript, React, Node
+  - Web : HTML / CSS / React
+  - Arduino/ESP, Raspberry Pi
+  - BASIC / ASM
 
 <hr>
 
