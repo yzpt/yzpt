@@ -199,7 +199,7 @@ Identification:
 
 | login | password |
 |-------|----------|
-| demo01 | demo02 |
+| demo01 | demo01 |
 | demo02 | demo02 |
 | ... | ... |
 | demo99 | demo99 |
