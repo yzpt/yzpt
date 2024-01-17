@@ -59,6 +59,12 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
         </tr>
     </tbody>
 </table>
+<hr>
+
+<p align="center">
+<img src="img/fundamentals_of_data_engineering.jpg" style="height: 10rem">
+<img src="img/clean_code.jpg" style="height: 10rem">
+</p>
 
 <hr>
 
