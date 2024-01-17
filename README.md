@@ -81,7 +81,7 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
 
 </p>
 
-  - **Kubernetes : Projet de spécialisation**
+  - **Kubernetes**
   - Apache Superset / Looker / powerBI
   - MongoDB, Cassandra
 <br>
