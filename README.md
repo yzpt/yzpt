@@ -31,7 +31,7 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
         </tr>
         <tr>
             <td><strong>SQL</strong></td>
-            <td>JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, Coalesce, concatenation, dates PostgreSQL, MySQL, local & Docker.</td>
+            <td>JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, RANK, manipulation des dates PostgreSQL, MySQL, SQLite.</td>
         </tr>
         <tr>
             <td><strong>Linux & Bash</strong></td>
