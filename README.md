@@ -63,8 +63,10 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
         </tr>
     </tbody>
 </table>
+
 <hr>
 
+:book:
 <p align="center">
 <img src="img/fundamentals_of_data_engineering.jpg" style="height: 10rem">
 <img src="img/clean_code.jpg" style="height: 10rem">
@@ -120,6 +122,11 @@ Déploiement d'un [dashboard](https://dashboard-service-dxpal7wuuq-od.a.run.app/
 
 [:link: https://github.com/yzpt/docker_cluster_streaming](https://github.com/yzpt/docker_cluster_streaming)
 
+Projet dans lequel j'ai découvert et appris:
+* Docker et le déploiement d'un cluster de VM avec docker-compose
+* Kafka : le client shell et python, les authentifications SASL/PLAIN et les autorisations ACLs
+* Spark : le client shell et python, les Dataframes, Spark Streaming, les connecteurs Kafka et Cassandra
+* Maven : les dépendances, les repositories, les operators Spark pour Kafka et Cassandra. J'ai fait face à plusieurs problèmes de compatibilité entre les versions de Spark, Scala & Kafka utilisées dans les images Docker.
 
 [![img/diagram_svg.svg](img/docker_streaming.png)](img/docker_streaming.png)
 
