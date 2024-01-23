@@ -27,7 +27,7 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
     <tbody>
         <tr>
             <td><strong>Python</strong>
-            <td>POO, DSA (<a href="https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335" target="_blank">top 1% codingame.com</a>), pip/conda, Jupyter, Venv, Flask, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, Requests, Selenium, BeautifulSoup et bien d'autres.</td>
+            <td>POO, DSA (<a href="https://www.codingame.com/profile/1931552bce1ef7afebc50c827e8d4b6a0342335" target="_blank">top 1% codingame.com</a>), pip/conda, Jupyter, Venv, Flask, Numpy, Pandas, Matplotlib, Seaborn, Scrapy, Requests, Selenium, BeautifulSoup et d'autres.</td>
         </tr>
         <tr>
             <td><strong>SQL</strong></td>
