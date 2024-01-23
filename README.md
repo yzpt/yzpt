@@ -74,7 +74,7 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
 
 
 
-### Pratiqués :
+### Technos pratiquées :
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt=""  style="height: 3rem"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt=""  style="height: 3rem"/>
@@ -100,7 +100,7 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
 
 [:link: github.com/yzpt/vlille_gcp](https://github.com/yzpt/vlille_gcp)
 
-Découverte des services GCP à travers l'implémentation d'un ETL des données de l'API du service V'lille avec GCP
+Découverte des services GCP à travers l'implémentation d'un ETL des données de l'[API du service V'lille :link:](https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/information/?flg=fr-fr&disjunctive.libelle&disjunctive.nom)
 
 Cloud Functions, Pub/Sub, Scheduler, Storage, Dataproc & BigQuery.
 
@@ -110,6 +110,7 @@ Déploiement d'un [dashboard](https://dashboard-service-dxpal7wuuq-od.a.run.app/
 
 
 [![Flask Dashboard](img/vlille_dashboard.png)](https://dashboard-service-dxpal7wuuq-od.a.run.app/)
+
 
 [https://dashboard-service-dxpal7wuuq-od.a.run.app/](https://dashboard-service-dxpal7wuuq-od.a.run.app/)
 
