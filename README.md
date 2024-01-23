@@ -2,6 +2,9 @@
 
 La programmation est une passion qui rythme mes loisirs, formations et professions depuis plus de 20 ans. Après une carrirère d'enseignant en mathématiques, je décide aujourd'hui de professionnaliser ce centre d'intérêt et me forme de manière autodidacte au métier de data engineer.
 
+La data science, notamment le ML m'intéressent également mais je me concentre pour l'instant sur les fondamentaux du data engineering. Les projets présentés ci-dessous ont pour objectif de démontrer ma capacité à apprendre et mettre en oeuvre les technologies phares utilisées en DE.
+
+
 <a href="https://www.linkedin.com/in/yohann-zapart/">
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"><br>linkedin.com/in/yohann-zapart/
