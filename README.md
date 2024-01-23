@@ -39,11 +39,11 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
         </tr>
         <tr>
             <td><strong>GCP</strong></td>
-            <td>Utilisation appuyée de la CLI & bash automatisation BigQuery, Storage, Dataproc, Composer, Dataflow, GCE, Functions, Scheduler, Pub/Sub, IAM, Artifcat Registry, Cloud Run, Logging.</td>
+            <td>gcloud CLI, BigQuery, Storage, Dataproc, Composer, Dataflow, GCE, Functions, Scheduler, Pub/Sub, IAM, Artifact Registry, Cloud Run, Logging.</td>
         </tr>
         <tr>
             <td><strong>Docker</strong></td>
-            <td>Dockerfile, clusterisation avec docker-compose, DockerHub</td>
+            <td>Dockerfile, docker-compose, DockerHub</td>
         </tr>
         <tr>
             <td><strong>Spark</strong></td>
@@ -55,7 +55,11 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
         </tr>
         <tr>
             <td><strong>Kafka</strong></td>
-            <td>Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentification SASL_SSL, Autorisations ACL.</td>
+            <td>Local, Docker & GCP Pub/Sub, Producer/Consumer shell/python client, Authentifications, Autorisations ACL.</td>
+        </tr>
+        <tr>
+            <td><strong>En cours</strong></td>
+            <td>Kubernetes, Looker / PowerBI.</td>
         </tr>
     </tbody>
 </table>
@@ -68,36 +72,17 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
 
 <hr>
 
-### En cours et prochainement :
 
+
+### Pratiqués :
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="python"  style="height: 6rem"/>
-<br>
-<img src="https://comptoir-du-libre.org/img/files/Softwares/Apache%20Superset/avatar/apache-superset.png" alt="python"  style="height: 3rem"/>
-<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="python"  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="python"  style="height: 3rem"/>
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="python"  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="python"  style="height: 3rem"/>
-
-</p>
-
-  - **Kubernetes**
-  - Apache Superset / Looker / powerBI
-  - MongoDB, Cassandra
-<br>
-<hr>
-
-### Autres :
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="python"  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="python"  style="height: 3rem"/>
-<!-- <br> -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="python"  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="python"  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="python"  style="height: 3rem"/>
-<!-- <br> -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="python"  style="height: 3rem"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="python"  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt=""  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt=""  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt=""  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt=""  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt=""  style="height: 3rem"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt=""  style="height: 3rem"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt=""  style="height: 3rem"/>
 
 </p>
 
@@ -115,7 +100,8 @@ La programmation est une passion qui rythme mes loisirs, formations et professio
 
 [:link: github.com/yzpt/vlille_gcp](https://github.com/yzpt/vlille_gcp)
 
-ETL des données de l'API du service V'lille avec GCP
+Découverte des services GCP à travers l'implémentation d'un ETL des données de l'API du service V'lille avec GCP
+
 Cloud Functions, Pub/Sub, Scheduler, Storage, Dataproc & BigQuery.
 
 Déploiement d'un [dashboard](https://dashboard-service-dxpal7wuuq-od.a.run.app/) sur Cloud Run avec Flask, Docker, Google Maps JS, ChartJS.
