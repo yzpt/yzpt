@@ -131,6 +131,8 @@ Projet dans lequel j'ai découvert et appris:
 * Spark : le client shell et python, les Dataframes, Spark Streaming, les connecteurs Kafka et Cassandra
 * Maven : les dépendances, les repositories, les operators Spark pour Kafka et Cassandra. J'ai fait face à plusieurs problèmes de compatibilité entre les versions de Spark, Scala & Kafka utilisées dans les images Docker.
 
+J'ai apprécié la dimension Ops du métier et cela m'a conduit à m'intéresser fortement à Kubernetes dont j'ai commencé la prise en main.
+
 [![img/diagram_svg.svg](img/docker_streaming.png)](img/docker_streaming.png)
 
 Implémentation de l'authentification SASL/PLAIN et autorisations ACL sur Kafka.
