@@ -206,18 +206,6 @@ Identification:
 
 <hr>
 
-## Arduino : smooth adressable LED strip
-
-[:link: https://github.com/yzpt/ws2812b](https://github.com/yzpt/ws2812b)
-
-Exemple de projet ayant été conduit auprès d'élèves.
-
-![img/arduino_circuit.png](img/arduino_circuit.png)
-
-https://github.com/yzpt/ws2812b/assets/140260395/834fdeff-d45a-46db-ba1b-3e91130749b2
-
-<hr>
-
 ## Autres & en cours
 
 * [:link: Machine Learning sur le dataset du projet V'Lille GCP](https://github.com/yzpt/vlille_machine_learning)
@@ -227,3 +215,4 @@ https://github.com/yzpt/ws2812b/assets/140260395/834fdeff-d45a-46db-ba1b-3e91130
 * [:link: Websocket Streaming vers GCP Pub/Sub](https://github.com/yzpt/websocket_to_gcp_pubsub)
 * [:link: Timemap des stations V'lille](https://github.com/yzpt/timemap_vlille)
 * [:link: SASL/PLAIN et ACLs sur Kafka](https://github.com/yzpt/upw_test_kafka_spark_docker)
+* [:link: Elegant & smooth Arduino adressable Led Strip ws2812b NeoPixel](https://github.com/yzpt/ws2812b)
