@@ -220,6 +220,7 @@ https://github.com/yzpt/ws2812b/assets/140260395/834fdeff-d45a-46db-ba1b-3e91130
 
 ## Autres & en cours
 
+* [:link: Machine Learning sur le dataset du projet V'Lille GCP](https://github.com/yzpt/vlille_machine_learning)
 * [:link: Implémentation d'un Spark Operator sur Kubernetes](https://github.com/yzpt/spark_on_kubernetes)
 * [:link: Kafka : KRaft mode](https://github.com/yzpt/kafka_kraft)
 * [:link: GCP Dataflow & BigQuery, prix des carburants](https://github.com/yzpt/dataflow_carburants)
