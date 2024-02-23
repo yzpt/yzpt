@@ -34,7 +34,7 @@ La data science, notamment le ML m'intéressent également mais je me concentre 
         </tr>
         <tr>
             <td><strong>SQL</strong></td>
-            <td>JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, RANK, manipulation des dates PostgreSQL, MySQL, SQLite.</td>
+            <td>JOINs, CTEs, Temporary functions, Window functions, Subqueries, Indexes, LAG, RANK, manipulation des dates</td>
         </tr>
         <tr>
             <td><strong>Linux & Bash</strong></td>
@@ -73,6 +73,8 @@ La data science, notamment le ML m'intéressent également mais je me concentre 
 <p align="center">
 <img src="img/fundamentals_of_data_engineering.jpg" style="height: 10rem">
 <img src="img/clean_code.jpg" style="height: 10rem">
+<img src="img/ml.jpg" style="height: 10rem">
+
 </p>
 
 <hr>
@@ -80,20 +82,9 @@ La data science, notamment le ML m'intéressent également mais je me concentre 
 
 
 ### Technos pratiquées :
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt=""  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt=""  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt=""  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt=""  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt=""  style="height: 3rem"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt=""  style="height: 3rem"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt=""  style="height: 3rem"/>
 
-</p>
-
-  - Java, PHP, MatLab, LabView
-  - Javascript, React, Node
-  - Web : HTML / CSS / React
+  - Java, PHP, Javascript, React, Node, HTML/CSS
+  - MatLab, LabView
   - Arduino/ESP, Raspberry Pi
   - BASIC / ASM
 
