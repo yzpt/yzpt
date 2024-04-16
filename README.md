@@ -1,9 +1,6 @@
-## Yohann Zapart - Reconversion Data Engineer 
+## Yohann Zapart - Reconversion Data Engineer/Scientist
 
-La programmation est une passion qui rythme mes loisirs, formations et professions depuis plus de 20 ans. Après une carrirère d'enseignant en mathématiques, je décide aujourd'hui de professionnaliser ce centre d'intérêt et me forme de manière autodidacte au métier de data engineer.
-
-La data science, notamment le ML m'intéressent également mais je me concentre pour l'instant sur les fondamentaux du data engineering. Les projets présentés ci-dessous ont pour objectif de démontrer ma capacité à apprendre et mettre en oeuvre les technologies phares utilisées en DE.
-
+Professeur mathématiques certifié pendant 8 ans, ingénieur en instrumentation scientifique de formation et titulaire d'un master 2 en microélectronique, je décide aujourd'hui de professionnaliser ma passion pour la programmation qui rythme ma vie personnelle, universitaire et professionnelle depuis l'âge de 10 ans et me forme de manière autodidacte au data engineering et à la data science.
 
 <a href="https://www.linkedin.com/in/yohann-zapart/">
 <p align="center">
