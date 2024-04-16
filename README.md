@@ -2,6 +2,9 @@
 
 Professeur mathématiques certifié pendant 8 ans, ingénieur en instrumentation scientifique de formation et titulaire d'un master 2 en microélectronique, je décide aujourd'hui de professionnaliser ma passion pour la programmation qui rythme ma vie personnelle, universitaire et professionnelle depuis l'âge de 10 ans et me forme de manière autodidacte au data engineering et à la data science.
 
+Certified mathematics teacher for 8 years, trained as a scientific instrumentation engineer and holder of a Master's degree in microelectronics, I am now deciding to professionalize my passion for programming, which has been a significant part of my personal, academic, and professional life since the age of 10. I am self-teaching myself in data engineering and data science.
+
+
 <a href="https://www.linkedin.com/in/yohann-zapart/">
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"><br>linkedin.com/in/yohann-zapart/
@@ -59,7 +62,7 @@ Professeur mathématiques certifié pendant 8 ans, ingénieur en instrumentation
         </tr>
         <tr>
             <td><strong>En cours</strong></td>
-            <td>Kubernetes, Looker / PowerBI.</td>
+            <td>Scikit-Learn, Looker</td>
         </tr>
     </tbody>
 </table>
@@ -78,7 +81,7 @@ Professeur mathématiques certifié pendant 8 ans, ingénieur en instrumentation
 
 
 
-### Technos pratiquées :
+### Practiced Technologies :
 
   - Java, PHP, Javascript, React, Node, HTML/CSS
   - MatLab, LabView
@@ -93,37 +96,34 @@ Professeur mathématiques certifié pendant 8 ans, ingénieur en instrumentation
 
 [:link: github.com/yzpt/vlille_gcp](https://github.com/yzpt/vlille_gcp)
 
-Découverte des services GCP à travers l'implémentation d'un ETL des données de l'[API du service V'lille :link:](https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/information/?flg=fr-fr&disjunctive.libelle&disjunctive.nom)
+Exploring GCP services through the implementation of an ETL of data from the [V'lille API :link:](https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/information/?flg=fr-fr&disjunctive.libelle&disjunctive.nom)
 
 Cloud Functions, Pub/Sub, Scheduler, Storage, Dataproc & BigQuery.
 
-Déploiement d'un [dashboard](https://dashboard-service-dxpal7wuuq-od.a.run.app/) sur Cloud Run avec Flask, Docker, Google Maps JS, ChartJS.
+Deployment of a [dashboard](https://dashboard-service-dxpal7wuuq-od.a.run.app/) on Cloud Run with Flask, Docker, Google Maps JS, ChartJS.
 
 [![img/diagram_svg.svg](img/vlille_diagram.svg)](img/vlille_diagram.svg)
 
-
 [![Flask Dashboard](img/vlille_dashboard.png)](https://dashboard-service-dxpal7wuuq-od.a.run.app/)
-
 
 [https://dashboard-service-dxpal7wuuq-od.a.run.app/](https://dashboard-service-dxpal7wuuq-od.a.run.app/)
 
 <hr>
 
-## Cluster de streaming avec Docker, Kafka, Spark & Cassandra
+## Streaming cluster with Docker, Kafka, Spark & Cassandra
 
 [:link: https://github.com/yzpt/docker_cluster_streaming](https://github.com/yzpt/docker_cluster_streaming)
 
-Projet dans lequel j'ai découvert et appris:
-* Docker et le déploiement d'un cluster de VM avec docker-compose
-* Kafka : le client shell et python, les authentifications SASL/PLAIN et les autorisations ACLs
-* Spark : le client shell et python, les Dataframes, Spark Streaming, les connecteurs Kafka et Cassandra
-* Maven : les dépendances, les repositories, les operators Spark pour Kafka et Cassandra. J'ai fait face à plusieurs problèmes de compatibilité entre les versions de Spark, Scala & Kafka utilisées dans les images Docker.
+A project where I discovered and learned:
+*Docker and the deployment of a VM cluster with docker-compose
+*Kafka: shell and python client, SASL/PLAIN authentications, and ACL authorizations
+*Spark: shell and python client, Dataframes, Spark Streaming, Kafka and Cassandra connectors
+*Maven: dependencies, repositories, Spark operators for Kafka and Cassandra. I faced several compatibility issues between the versions of Spark, Scala & Kafka used in Docker images.
 
-J'ai apprécié la dimension Ops du métier et cela m'a conduit à m'intéresser fortement à Kubernetes dont j'ai commencé la prise en main.
-
+I enjoyed the Ops aspect of the job, which led me to strongly focus on Kubernetes, which I have begun to get to grips with.
 [![img/diagram_svg.svg](img/docker_streaming.png)](img/docker_streaming.png)
 
-Implémentation de l'authentification SASL/PLAIN et autorisations ACL sur Kafka.
+Implementation of SASL/PLAIN authentication and ACL authorizations on Kafka.    
 
 [:link: https://github.com/yzpt/upw_test_kafka_spark_docker](https://github.com/yzpt/upw_test_kafka_spark_docker)
   
@@ -133,7 +133,7 @@ Implémentation de l'authentification SASL/PLAIN et autorisations ACL sur Kafka.
 
 [:link: https://github.com/yzpt/airflow_carburants](https://github.com/yzpt/airflow_carburants)
 
-ETL des prix des carburants avec Airlfow en trois déclinaisons :
+ETL of fuel prices with Airflow in three versions:
 
 * Local
 * Docker + Airflow + PostgreSQL
@@ -145,25 +145,20 @@ ETL des prix des carburants avec Airlfow en trois déclinaisons :
 
 <hr>
 
-## Zapmaths : application web d'entraînement aux automatismes de calculs
+## Zapmaths: web application for practicing calculation skills
 
 [:link: https://github.com/yzpt/zapmathss](https://github.com/yzpt/zapmaths)
 
-Application développée et utilisée durant ma carrière de professeur certifié de mathématiques en lycée professionnel.
+Application developed and used during my career as a certified mathematics teacher in a vocational high school.
 
-Développée durant le confinement avec des bases en Php/mySQL sur serveur LAMP. Elle m'a amenée à utiliser Python et relancer mon intérêt pour le code.
+Developed during lockdown with a foundation in Php/mySQL on a LAMP server. It reignited my interest in coding and led me to use Python.
 
 [![img/diagram_zapmaths_svg.svg](img/diagram_zapmaths_svg.svg)](img/diagram_zapmaths_svg.svg)
 
-Elle fût un performant levier d'apprentissage, appréciée et très utilisée des élèves qui traitaient chacun en moyenne quelques milliers de questions par année scolaire.
-
-* Suivi précis des activités des élèves
-
-* Questions aux données numériques semi-aléatoires, les énoncés, schémas, diagrammes et corrections sont générés  dynamiquement en fonction des valeurs générées.
-  
-* Utilisation de matplolib et mathjax pour générer les énoncés, schémas, graphiques et diagrammes.
-* 
-* Web application en Php/mySQL sur serveur LAMP.
+It was an effective learning tool, well-received and heavily used by students who each processed thousands of questions per academic year.
+* Detailed tracking of student activities
+* Questions with semi-random numerical data, the statements, diagrams, charts, and corrections are dynamically generated based on the generated values.
+* Web application in Php/mySQL on a LAMP server.
 
 <div style="display: flex; flex-wrap:wrap;">
 
@@ -179,9 +174,9 @@ Elle fût un performant levier d'apprentissage, appréciée et très utilisée d
 </div>
 
 ### Démo :
-Une version est accessible sur [https://zapart.ovh](https://zapart.ovh)
+A version is accessible at [https://zapart.ovh](https://zapart.ovh)
 
-Identification:
+Login information:
 
 
 | login | password |
@@ -194,13 +189,13 @@ Identification:
 
 <hr>
 
-## Autres & en cours
+## Others & in progress
 
-* [:link: Machine Learning sur le dataset du projet V'Lille GCP](https://github.com/yzpt/vlille_machine_learning)
-* [:link: Implémentation d'un Spark Operator sur Kubernetes](https://github.com/yzpt/spark_on_kubernetes)
+* [:link: Discovering Machine Learning on the V'Lille GCP project dataset](https://github.com/yzpt/vlille_machine_learning)
+* [:link: Implémentation of a Spark Operator on Kubernetes](https://github.com/yzpt/spark_on_kubernetes)
 * [:link: Kafka : KRaft mode](https://github.com/yzpt/kafka_kraft)
-* [:link: GCP Dataflow & BigQuery, prix des carburants](https://github.com/yzpt/dataflow_carburants)
-* [:link: Websocket Streaming vers GCP Pub/Sub](https://github.com/yzpt/websocket_to_gcp_pubsub)
-* [:link: Timemap des stations V'lille](https://github.com/yzpt/timemap_vlille)
-* [:link: SASL/PLAIN et ACLs sur Kafka](https://github.com/yzpt/upw_test_kafka_spark_docker)
+* [:link: GCP Dataflow & BigQuery, fuel prices](https://github.com/yzpt/dataflow_carburants)
+* [:link: Websocket Streaming to GCP Pub/Sub](https://github.com/yzpt/websocket_to_gcp_pubsub)
+* [:link: Timemap of stations V'lille](https://github.com/yzpt/timemap_vlille)
+* [:link: SASL/PLAIN and ACLs on Kafka](https://github.com/yzpt/upw_test_kafka_spark_docker)
 * [:link: Elegant & smooth Arduino adressable Led Strip ws2812b NeoPixel](https://github.com/yzpt/ws2812b)
