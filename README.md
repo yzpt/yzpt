@@ -1,4 +1,4 @@
-## Yohann Zapart - Data Scientist/Analyst/Engineer | Python Developer
+## Yohann Zapart - Data Scientist / Analyst / Engineer | Python Developer
 
 🇬🇧 Certified mathematics teacher for 8 years, trained as a scientific instrumentation engineer and holder of a Master's degree in microelectronics, I am now deciding to professionalize my passion for programming, which has been a significant part of my personal, academic, and professional life since the age of 10. I am self-teaching myself in data engineering and data science.
 
