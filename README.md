@@ -1,4 +1,4 @@
-## Yohann Zapart - Reconversion Data Engineer/Scientist
+## Yohann Zapart - Data Scientist/Analyst/Engineer | Python Developer
 
 🇫🇷 Professeur de mathématiques certifié pendant 8 ans, ingénieur en instrumentation scientifique de formation et titulaire d'un master 2 en microélectronique, je décide aujourd'hui de professionnaliser ma passion pour la programmation qui rythme ma vie personnelle, universitaire et professionnelle depuis l'âge de 10 ans et me forme de manière autodidacte au data engineering et à la data science.
 
