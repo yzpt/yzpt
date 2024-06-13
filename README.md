@@ -1,8 +1,8 @@
 ## Yohann Zapart - Data Scientist/Analyst/Engineer | Python Developer
 
-🇫🇷 Professeur de mathématiques certifié pendant 8 ans, ingénieur en instrumentation scientifique de formation et titulaire d'un master 2 en microélectronique, je décide aujourd'hui de professionnaliser ma passion pour la programmation qui rythme ma vie personnelle, universitaire et professionnelle depuis l'âge de 10 ans et me forme de manière autodidacte au data engineering et à la data science.
-
 🇬🇧 Certified mathematics teacher for 8 years, trained as a scientific instrumentation engineer and holder of a Master's degree in microelectronics, I am now deciding to professionalize my passion for programming, which has been a significant part of my personal, academic, and professional life since the age of 10. I am self-teaching myself in data engineering and data science.
+
+🇫🇷 Professeur de mathématiques certifié pendant 8 ans, ingénieur en instrumentation scientifique de formation et titulaire d'un master 2 en microélectronique, je décide aujourd'hui de professionnaliser ma passion pour la programmation qui rythme ma vie personnelle, universitaire et professionnelle depuis l'âge de 10 ans et me forme de manière autodidacte au data engineering et à la data science.
 
 <a href="https://www.linkedin.com/in/yohann-zapart/">
 <p align="center">
