@@ -105,7 +105,7 @@ Deployment of a [dashboard](https://dashboard-service-dxpal7wuuq-od.a.run.app/) 
 
 [![Flask Dashboard](img/vlille_dashboard.png)](https://dashboard-service-dxpal7wuuq-od.a.run.app/)
 
-[https://dashboard-service-dxpal7wuuq-od.a.run.app/](https://dashboard-service-dxpal7wuuq-od.a.run.app/)
+[https://ville-v1-app-service-dxpal7wuuq-od.a.run.app/](https://ville-v1-app-service-dxpal7wuuq-od.a.run.app/)
 
 <hr>
 
