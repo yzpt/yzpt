@@ -95,17 +95,17 @@
 
 [:link: github.com/yzpt/vlille_gcp](https://github.com/yzpt/vlille_gcp)
 
-Exploring GCP services through the implementation of an ETL of data from the [V'lille API :link:](https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/information/?flg=fr-fr&disjunctive.libelle&disjunctive.nom)
+Exploring GCP services through the implementation of an ETL of data from the [V'lille API :link:](https://data.lillemetropole.fr/geoserver/ows?SERVICE=WFS&REQUEST=GetFeature&VERSION=2.0.0&TYPENAMES=mel_mobilite_et_transport%3Abike_histo&OUTPUTFORMAT=application%2Fjson)
 
 Cloud Functions, Pub/Sub, Scheduler, Storage, Dataproc & BigQuery.
 
-Deployment of a [dashboard](https://dashboard-service-dxpal7wuuq-od.a.run.app/) on Cloud Run with Flask, Docker, Google Maps JS, ChartJS.
+Deployment of a [dashboard](https://vlille-v1-app-service-dxpal7wuuq-od.a.run.app/) on Cloud Run with Flask, Docker, Google Maps JS, ChartJS.
 
 [![img/diagram_svg.svg](img/vlille_diagram.svg)](img/vlille_diagram.svg)
 
-[![Flask Dashboard](img/vlille_dashboard.png)](https://dashboard-service-dxpal7wuuq-od.a.run.app/)
+[![Flask Dashboard](img/vlille_dashboard.png)](https://vlille-v1-app-service-dxpal7wuuq-od.a.run.app/)
 
-[https://ville-v1-app-service-dxpal7wuuq-od.a.run.app/](https://ville-v1-app-service-dxpal7wuuq-od.a.run.app/)
+[https://vlille-v1-app-service-dxpal7wuuq-od.a.run.app/](https://vlille-v1-app-service-dxpal7wuuq-od.a.run.app/)
 
 <hr>
 
